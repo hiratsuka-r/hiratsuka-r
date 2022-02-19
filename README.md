@@ -1,13 +1,15 @@
 ## Profile
 
-Hello, this is hiratsuka-r.
-I am a front engineer in Japan.
-In the past I have also worked as a backend engineer and designer.
-Currently, I do not belong to the company and undertake work as a freelancer.
-
-My hobbies are swimming, kimono and brewing tea.
-I love being excited.
-Nice to meet you.
+<p>
+    Hello, this is hiratsuka-r.<br>
+    I am a front engineer in Japan.<br>
+    In the past I have also worked as a backend engineer and designer.<br>
+    Currently, I do not belong to the company and undertake work as a freelancer.
+</p>
+<p>
+    My hobbies are swimming, kimono and brewing tea.<br>
+    I love being excited.  Nice to meet you!
+</p>
 
 ## Languages and Tools
 
