@@ -5,10 +5,11 @@ Hello, this is hiratsuka-r.<br>
 I am a front engineer in Japan.<br>
 In the past I have also worked as a backend engineer and designer.<br>
 Currently, I do not belong to the company and undertake work as a freelancer.
-
+</p>
+<p>
 My hobbies are swimming, kimono and brewing tea.<br>
-I love being excited.  Nice to meet you!
-
+I love to be excited.  Nice to meet you!
+</p>
   
 ## Languages and Tools
 
@@ -88,6 +89,7 @@ I love being excited.  Nice to meet you!
     </a>
 </p>
 
+
 ## GitHub Profile Summary
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiratsuka-r&theme=nord_bright)
@@ -100,6 +102,7 @@ I love being excited.  Nice to meet you!
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiratsuka-r&theme=merko" />
 </a>
 -->
+
 
 ## GitHub Profile Trophy
 
