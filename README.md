@@ -34,9 +34,6 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
     </a>
-    <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
-    </a>
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
     </a>
@@ -62,6 +59,12 @@
     </a>
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+    </a>
+    <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
+    </a>
+    <a href="https://cakephp.org/" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/22903625/154813269-2a00e4ce-048d-41e5-8f9f-f144e7d59b66.png" alt="cakephp" width="40" height="40" />
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
