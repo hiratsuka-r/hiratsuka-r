@@ -1,16 +1,15 @@
 ## Profile
 
 <p>
-    Hello, this is hiratsuka-r.<br>
-    I am a front engineer in Japan.<br>
-    In the past I have also worked as a backend engineer and designer.<br>
-    Currently, I do not belong to the company and undertake work as a freelancer.
-</p>
-<p>
-    My hobbies are swimming, kimono and brewing tea.<br>
-    I love being excited.  Nice to meet you!
-</p>
+Hello, this is hiratsuka-r.<br>
+I am a front engineer in Japan.<br>
+In the past I have also worked as a backend engineer and designer.<br>
+Currently, I do not belong to the company and undertake work as a freelancer.
 
+My hobbies are swimming, kimono and brewing tea.<br>
+I love being excited.  Nice to meet you!
+
+  
 ## Languages and Tools
 
 ### Advanced
@@ -103,4 +102,5 @@
 -->
 
 ## GitHub Profile Trophy
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiratsuka-r&theme=onedark&rank=SSS,SS,S,AAA,AA,A,B,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
