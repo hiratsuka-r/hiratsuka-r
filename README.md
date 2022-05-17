@@ -13,7 +13,8 @@ I love to be excited.  Nice to meet you!
   
 ## Languages and Tools
 
-### Advanced
+
+### Intermediate
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -48,7 +49,7 @@ I love to be excited.  Nice to meet you!
     </a>
 </p>
 
-### Intermediate
+
 
 <p align="left">
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
