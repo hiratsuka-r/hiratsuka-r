@@ -3,7 +3,7 @@
 <p>
 Hello, this is hiratsuka-r.<br>
 I am a front engineer in Japan.<br>
-In the past I have also worked as a backend engineer and designer.<br>
+In the past I have also worked as a backend engineer.<br>
 Currently, I do not belong to the company and undertake work as a freelancer.
 </p>
 <p>
