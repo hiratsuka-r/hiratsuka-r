@@ -8,7 +8,7 @@ Currently, I do not belong to the company and undertake work as a freelancer.
 </p>
 <p>
 My hobbies are swimming, kimono and brewing tea.<br>
-I love to be excited.  Nice to meet you!
+I like adventure and excitement!  Nice to meet you!
 </p>
   
 ## Languages and Tools
