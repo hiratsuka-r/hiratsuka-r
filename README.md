@@ -14,7 +14,7 @@ I like adventure and excitement!  Nice to meet you!
 ## Languages and Tools
 
 
-### Intermediate
+### L4
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -32,9 +32,11 @@ I like adventure and excitement!  Nice to meet you!
     <a href="https://www.php.net" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
     </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
-    </a>
+</p>
+
+### L3
+  
+<p align="left">
     <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
     </a>
@@ -47,9 +49,15 @@ I like adventure and excitement!  Nice to meet you!
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
     </a>
+    <a href="https://cakephp.org/" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/22903625/154813269-2a00e4ce-048d-41e5-8f9f-f144e7d59b66.png" alt="cakephp" width="40" height="40" />
+    </a>
+    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
+    </a>
 </p>
 
-
+### L2
 
 <p align="left">
     <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
@@ -63,9 +71,6 @@ I like adventure and excitement!  Nice to meet you!
     </a>
     <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
         <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
-    </a>
-    <a href="https://cakephp.org/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/22903625/154813269-2a00e4ce-048d-41e5-8f9f-f144e7d59b66.png" alt="cakephp" width="40" height="40" />
     </a>
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
