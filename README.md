@@ -96,7 +96,4 @@ I like adventure and excitement!  Nice to meet you!
 
 ## GitHub Profile Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiratsuka-r&theme=vue)
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hiratsuka-r&layout=compact&theme=merko&count_private=true" />
-</a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiratsuka-r&theme=solarized)
