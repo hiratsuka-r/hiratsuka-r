@@ -98,7 +98,7 @@ I like adventure and excitement!  Nice to meet you!
 
 ## GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hiratsuka-r&theme=buddhism&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiratsuka-r&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Profile Summary
 
