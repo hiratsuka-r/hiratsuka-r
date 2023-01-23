@@ -95,10 +95,14 @@ I like adventure and excitement!  Nice to meet you!
     </a>
 </p>
 
+
 ## GitHub Profile Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hiratsuka-r&theme=buddhism&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hiratsuka-r&theme=buddhism&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## GitHub Profile Summary
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiratsuka-r&theme=nord_bright)
+<div>
+  <img height="170" align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiratsuka-r&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiratsuka-r&layout=compact&title_color=586e75&text_color=586e75">
+</div>
