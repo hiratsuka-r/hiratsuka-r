@@ -104,5 +104,4 @@ I like adventure and excitement!  Nice to meet you!
 
 <div class="pSummary">
   <img class="pSummary__left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiratsuka-r&theme=default">
-  <img class="pSummary__right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiratsuka-r&layout=compact&title_color=586e75&text_color=586e75">
 </div>
