@@ -100,8 +100,3 @@ I like adventure and excitement!  Nice to meet you!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiratsuka-r&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
-## GitHub Profile Summary
-
-<div class="pSummary">
-  <img class="pSummary__left" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiratsuka-r&theme=default">
-</div>
