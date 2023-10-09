@@ -43,6 +43,7 @@ It's so much fun to be able to learn so many things!
 
 ## 言語やツール (Languages and Tools)
 
+
 #### レベル感 &#9733;4 : 後で読んでも結構わかりやすいコードが書けます。コードレビューをよく頼まれます
 
 <p align="left">
