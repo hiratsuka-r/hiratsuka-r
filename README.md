@@ -51,6 +51,7 @@ It's so much fun to be able to learn so many things!
 	<img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
 	<img alt="php"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
 	<img alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" />
+	<img alt="Riot.js" src="https://github.com/hiratsuka-r/hiratsuka-r/assets/22903625/133af57a-42ce-42d9-95af-02eaab4618af" width="40" height="40" />
 </p>
 
 
