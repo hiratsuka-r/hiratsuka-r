@@ -1,102 +1,89 @@
-## Profile
+## 自己紹介(Profile)
 
-<p>
-Hello, this is hiratsuka-r.<br>
-I am a front engineer in Japan.<br>
-In the past I have also worked as a backend engineer.<br>
-Currently, I do not belong to the company and undertake work as a freelancer.
-</p>
-<p>
-My hobbies are swimming, kimono and brewing tea.<br>
-I like adventure and excitement!  Nice to meet you!
-</p>
+- 🌱 こんにちは！ 私はhiratsuka-r と申します。<br>2012年からお仕事として、フロントエンド・バックエンド両方の開発者をしています。<br>日々仕事をすればするほど学ぶことがたくさん出てきて、今は自信を持っては言えないのですが…ゆくゆくは"フルスタック開発者"と名乗ってみたい。<br>現在は特定の会社に所属せず、フリーランスとして仕事を請け負っています。もし面白そうなお仕事のお話があればぜひ声をかけてください！
+
+- 🌱 私の趣味をいくつか挙げてみると…<br>
+・愛娘(4歳)と一緒に、しょうもないプログラムを書いて面白がること <br>
+・お茶を淹れて美味しいものを食べること <br>
+・着物を着付けること<br>
+・仲間と一緒にボードゲームをすること <br>
+・水泳<br>
+などなど。 人に影響されやすいので少しだけ齧った趣味はもっとあります。日々いろんな事を知ることができるのはすごく楽しいと思う！
+
+<details>
+<summary>Profile</summary>
+<pre>
+<code>
   
-## Languages and Tools
+🌱I'm also studying English. 
+If you see something weird, just laugh secretly...
 
 
-### L4
+🌱Hello, this is hiratsuka-r!
+I am a system developer (front and backend areas) in Japan. 
+In the future, I would like to be able to confidently call myself a "full stack developer."
+Currently, I am not affiliated with any specific company and am working as a freelancer. 
+If you have any questions about work, please give us a call!
+
+🌱Here are some of my hobbies...
+-Having fun writing silly programs with my beloved daughter (4 years old)
+-Eating delicious food
+-Wearing a kimono
+-To make tea for someone
+-Playing board games together
+-swimming
+etc. I'm easily influenced by other people, so there are many more hobbies that I've had a little bit of experience with.
+It's so much fun to be able to learn so many things!
+
+</code>
+</pre>
+</details>
+
+
+
+## 言語やツール (Languages and Tools)
+
+#### レベル感 &#9733;4 : 後で読んでも結構わかりやすいコードが書けます。コードレビューをよく頼まれます
 
 <p align="left">
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-    </a>
-    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-    </a>
+	<img alt="css3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+	<img alt="html5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
+	<img alt="javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
+	<img alt="php"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" />
+	<img alt="sass" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" />
 </p>
 
-### L3
+
+#### レベル感 &#9733;3 : 一通りの機能を把握できていてお仕事で使えます。たまにコードレビューを頼まれます
   
 <p align="left">
-    <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40" />
-    </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40" />
-    </a>
-    <a href="https://cakephp.org/" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/22903625/154813269-2a00e4ce-048d-41e5-8f9f-f144e7d59b66.png" alt="cakephp" width="40" height="40" />
-    </a>
-    <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" />
-    </a>
+	<img alt="adobe illustrator" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" />
+	<img alt="adobe photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" />
+	<img alt="db mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
+	<img alt="db oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" />
+	<img alt="php cakephp" src="https://user-images.githubusercontent.com/22903625/154813269-2a00e4ce-048d-41e5-8f9f-f144e7d59b66.png"width="40" height="40" />
+	<img alt="php laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" />
 </p>
 
-### L2
+#### レベル感 &#9733;2 : 時々調べながらになりますが使えます。だいたいは過去に業務経験あり
 
 <p align="left">
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
-    </a>
-    <a href="https://www.sketch.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" />
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
-    </a>
-    <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40" />
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
-    </a>
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-    </a>
-    <a href="https://gulpjs.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40" />
-    </a>
-    <a href="https://www.jenkins.io" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
-    </a>
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-    </a>
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" />
-    </a>
+	<img alt="adobe xd" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40" />
+	<img alt="lang java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
+	<img alt="os android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" />
+	<img alt="php codeigniter" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40" height="40" />
+	<img alt="php react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />
+	<img alt="tool aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="60" />
+	<img alt="tool docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+	<img alt="tool figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />
+	<img alt="tool gulp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" height="40" />
+	<img alt="tool jenkins" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" />
+	<img alt="tool sketch" src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="40" height="40" />
 </p>
 
+Thanks! https://github.com/devicons/devicon/tree/master/icons
 
-## GitHub Profile Trophy
+#### トロフィー
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hiratsuka-r&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
