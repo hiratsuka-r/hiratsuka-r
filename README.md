@@ -72,7 +72,7 @@ It's so much fun to be able to learn so many things!
 <p align="left">
 	<img alt="adobe xd" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40" />
 	<img alt="lang java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
-	<img alt="os android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" />
+	<img alt="lang typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" />
 	<img alt="php codeigniter" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40" height="40" />
 	<img alt="php react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />
 	<img alt="tool aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
