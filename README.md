@@ -75,7 +75,7 @@ It's so much fun to be able to learn so many things!
 	<img alt="os android" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" />
 	<img alt="php codeigniter" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40" height="40" />
 	<img alt="php react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="40" height="40" />
-	<img alt="tool aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80" height="60" />
+	<img alt="tool aws" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" />
 	<img alt="tool docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
 	<img alt="tool figma" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" />
 	<img alt="tool gulp" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" width="40" height="40" />
