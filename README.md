@@ -1,6 +1,6 @@
 ## 自己紹介(Profile)
 
-- 🌱 こんにちは！ 私はhiratsuka-r と申します。<br>2012年からお仕事としてフロントエンド・バックエンド両方の開発者をしています。<br>日々仕事をすればするほど学ぶことがたくさん出てきて、まだ自信を持っては言えないのですが…ゆくゆくは"フルスタック開発者"と名乗ってみたい。<br>現在は特定の会社に所属せずフリーランスとして仕事を請け負っています。もし面白そうなお仕事のお話があればぜひ声をかけてください！
+- 🌱 こんにちは！私はhiratsuka-rと申します。<br>2012年からお仕事としてフロントエンド・バックエンド両方の開発者をしています。<br>日々仕事をすればするほど学ぶことがたくさん出てきて、まだ自信を持っては言えないのですが…ゆくゆくは"フルスタック開発者"と名乗ってみたいと思っています。<br>現在は特定の会社に所属せず、フリーランスとして仕事を請け負っています。もし面白そうなお仕事のお話があればぜひ声をかけてください！
 
 - 🌱 私の趣味をいくつか挙げてみると…<br>
 ・愛娘(4歳)と一緒に、しょうもないプログラムを書いて面白がること <br>
@@ -56,7 +56,7 @@ It's so much fun to be able to learn so many things!
 </p>
 
 
-#### レベル感 &#9733;3 : 一通りの機能を把握できていてお仕事で使えます。たまにコードレビューを頼まれます
+#### レベル感 &#9733;3 : 一通りの機能を把握できていて使えます。たまにコードレビューを頼まれます
   
 <p align="left">
 	<img alt="adobe illustrator" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" />
@@ -67,7 +67,7 @@ It's so much fun to be able to learn so many things!
 	<img alt="php laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" />
 </p>
 
-#### レベル感 &#9733;2 : 時々調べながらになりますが使えます。だいたいは過去に業務経験あり
+#### レベル感 &#9733;2 : 時々調べながらになりますが使えます
 
 <p align="left">
 	<img alt="adobe xd" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40" />
