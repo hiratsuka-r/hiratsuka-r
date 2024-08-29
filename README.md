@@ -1,9 +1,13 @@
+
+<link rel="スタイルシート" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
+
 ## 自己紹介(Profile)
 
 - 🌱 こんにちは！私はhiratsuka-rと申します。<br>2012年からお仕事としてフロントエンド・バックエンド両方の開発者をしています。<br>日々仕事をすればするほど学ぶことがたくさん出てきて、まだ自信を持っては言えないのですが…ゆくゆくは"フルスタック開発者"と名乗ってみたいと思っています。<br>現在は特定の会社に所属せず、フリーランスとして仕事を請け負っています。もし面白そうなお仕事のお話があればぜひ声をかけてください！
 
 - 🌱 私の趣味をいくつか挙げてみると…<br>
-・愛娘(4歳)と一緒に、しょうもないプログラムを書いて面白がること <br>
+・愛娘(5歳)と一緒に、しょうもないプログラムを書いて面白がること <br>
 ・お茶を淹れて美味しいものを食べること <br>
 ・着物を着付けること<br>
 ・仲間と一緒にボードゲームをすること <br>
@@ -26,7 +30,7 @@ Currently, I am not affiliated with any specific company and am working as a fre
 If you have any questions about work, please give us a call!
 
 🌱Here are some of my hobbies...
--Having fun writing silly programs with my beloved daughter (4 years old)
+-Having fun writing silly programs with my beloved daughter (5 years old)
 -Eating delicious food
 -Wearing a kimono
 -To make tea for someone
@@ -60,17 +64,17 @@ It's so much fun to be able to learn so many things!
   
 <p align="left">
 	<img alt="adobe illustrator" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" width="40" height="40" />
-	<img alt="adobe photoshop" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" />
+	<img alt="adobe photoshop" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" width="40" height="40" />
 	<img alt="db mysql" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
 	<img alt="db oracle" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" />
 	<img alt="php cakephp" src="https://user-images.githubusercontent.com/22903625/154813269-2a00e4ce-048d-41e5-8f9f-f144e7d59b66.png"width="40" height="40" />
-	<img alt="php laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="40" height="40" />
+	<img alt="php laravel" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" width="40" height="40" />
 </p>
 
 #### レベル感 &#9733;2 : 時々調べながらになりますが使えます
 
 <p align="left">
-	<img alt="adobe xd" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" width="40" height="40" />
+	<img alt="adobe xd" src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-original.svg" width="40" height="40" />
 	<img alt="lang java" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" />
 	<img alt="lang typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" height="40" />
 	<img alt="php codeigniter" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="40" height="40" />
