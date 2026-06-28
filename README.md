@@ -7,7 +7,7 @@
 - 🌱 こんにちは！私はhiratsuka-rと申します。<br>2012年からお仕事としてフロントエンド・バックエンド両方の開発者をしています。<br>日々仕事をすればするほど学ぶことがたくさん出てきて、まだ自信を持っては言えないのですが…ゆくゆくは"フルスタック開発者"と名乗ってみたいと思っています。<br>現在は特定の会社に所属せず、フリーランスとして仕事を請け負っています。もし面白そうなお仕事のお話があればぜひ声をかけてください！
 
 - 🌱 私の趣味をいくつか挙げてみると…<br>
-・愛娘(5歳)と一緒に、しょうもないプログラムを書いて面白がること <br>
+・愛娘(7歳)と一緒に、しょうもないプログラムを書いて面白がること <br>
 ・お茶を淹れて美味しいものを食べること <br>
 ・着物を着付けること<br>
 ・仲間と一緒にボードゲームをすること <br>
@@ -30,7 +30,7 @@ Currently, I am not affiliated with any specific company and am working as a fre
 If you have any questions about work, please give us a call!
 
 🌱Here are some of my hobbies...
--Having fun writing silly programs with my beloved daughter (5 years old)
+-Having fun writing silly programs with my beloved daughter (7 years old)
 -Eating delicious food
 -Wearing a kimono
 -To make tea for someone
