@@ -89,7 +89,3 @@ It's so much fun to be able to learn so many things!
 
 Thanks! https://github.com/devicons/devicon/tree/master/icons
 
-#### トロフィー
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hiratsuka-r&theme=flat&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
